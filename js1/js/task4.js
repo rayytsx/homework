@@ -26,3 +26,5 @@ btn1.addEventListener("click", () => {
     result.textContent = "Сума меньша або дорівнює 10";
   }
 });
+
+
